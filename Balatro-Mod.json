@@ -1,0 +1,14 @@
+{
+	"id": "Balatro-Mod",
+	"name": "Mod for Testing",
+	"display_name": "test test :3",
+	"author": ["1cutekaninchen"],
+	"description": "car goes vroooom :3",
+	"prefix": "wha",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "b00b60",
+	"badge_text_colour": "000000",
+	"version": "0.7.4",
+	"dependencies": []
+}
